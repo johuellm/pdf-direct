@@ -61,6 +61,7 @@ browser.webRequest.onBeforeRequest.addListener(
       "*://*.tandfonline.com/*",
       "*://*.wiley.com/*",
       "*://*.ezproxy2.utwente.nl/*",
+      "*://*.ebsco.com/*",
       "*://*.oclc.org/*"
     ]
   },
