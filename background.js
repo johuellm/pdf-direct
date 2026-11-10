@@ -60,8 +60,14 @@ browser.webRequest.onBeforeRequest.addListener(
       "*://*.springer.com/*",
       "*://*.tandfonline.com/*",
       "*://*.wiley.com/*",
+      "*://*.ezproxy2.utwente.nl/*",
       "*://*.oclc.org/*"
     ]
   },
   ["blocking"]
 );
+
+
+
+
+
