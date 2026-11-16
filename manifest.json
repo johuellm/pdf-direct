@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "PDF-Direct",
+  "name": "PDF-Direct (UT)",
   "version": "1.6.0",
   "description": "Redirects academic journal fancy PDF viewers to direct file downloads.",
   "permissions": [
@@ -32,7 +32,7 @@
   },
   "browser_specific_settings": {
     "gecko": {
-      "id": "{f2b67e28-b47e-4b3f-9c92-4a201352ff73}",
+      "id": "{60d6e3ac-5408-4049-a66d-3887555e616c}",
       "data_collection_permissions": {
         "required": [
           "none"
